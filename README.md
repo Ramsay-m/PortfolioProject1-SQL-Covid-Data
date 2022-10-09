@@ -1,4 +1,4 @@
-# PortfolioProject1—CovidData
+# Portfolio Project 1 — World Covid Data
 
 This project explores COVID-19 vaccination and death rates around the world. It’s simply meant to satisfy some of my curiosities about the differences in vaccination rates and death rates among various countries. 
 
